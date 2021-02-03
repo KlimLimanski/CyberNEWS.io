@@ -1,0 +1,56 @@
+header {
+    background-color: rgb(255, 115, 201);
+    border: 6px solid rgb(179, 91, 238);
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.backfon {  
+   background: url(https://images2.alphacoders.com/105/1054348.jpg);
+   }
+   a {
+       text-align: right;
+   }
+   header a {
+       text-decoration: none;
+       color: rgb(172, 65, 109);
+       border-radius: 4px;
+       border: 2px solid rgb(167, 58, 94);
+       margin: 60px;
+       padding: 1px;
+   }
+   main {
+       margin: 20px;
+       margin-left:400px ;
+       margin-right:400px ;
+       color : rgb(107, 32, 107);
+   }
+   .News {
+       font-size: 19px;
+       font-family: monospace ;
+       background-color: rgb(211, 111, 177);
+       border: 10px solid rgb(137, 52, 170);
+   }
+   .nextfoto {
+       background: url(https://vsthemes.org/uploads/posts/2020-10/1601806773_screenshot_1.jpg);
+   }
+   .iconsfooter {
+       width: 20px;
+       height: 20px;
+       margin: 3px;
+       margin-left: 100px;
+   }
+   footer {
+       background-color: rgb(59, 25, 46);
+    margin-left:400px ;
+       margin-right:400px ;
+       color: plum;
+    
+
+   }
+
+   div {
+       margin-left: 300px;
+   }
+    main p img {
+           border: 5px solid rgb(137, 52, 170);
+       }
